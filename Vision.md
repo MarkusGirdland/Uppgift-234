@@ -47,11 +47,17 @@ Ganska likt Hattrick så är tanken att man ska gå in på appen, kunna leta spe
 
 ### Features
 • Nya skärmar till dina spelare eller större budget på träningen? - Pengarna är i dina händer!
+
 • Coacha ditt eget lag och lägg upp taktiken inför nästa match - Bli ett strategiskt geni!
+
 • Döp ditt lag och designa deras logga och kläder - Inte bara bäst, ser bäst ut också!
+
 • Ta hand om dina spelare och leta nya talanger - Få det ultimata laget!
+
 • Inte löjligt tidskrävande - Lägg upp din taktik och behåll din fritid!
+
 • Visa dina framsteg och utmana dina vänner - Visa vem som är bäst!
+
 • Inget PayToWin - Spelet är rättvist för alla!
  
 
