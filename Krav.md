@@ -30,6 +30,7 @@ Av: [mg222pi](https://github.com/MarkusGirdland)
 - ... går in på en spelares profil och skriver information om en tidigare fråga spelaren skrev.
 
 **Administratören** ser att en tråd på forumet ligger under teknisk support men är helt klart en generell fråga som inte passar under denna kategori och flyttar därför tråden till lämplig kategori.
+
 **Administratören** märker att en tråd har inslag av rasistiska kommentarer och tar bort tråden från forumet och varnar/bestraffar användarna bakom tråden.
 
 **Appansvarige** uppdaterar appen med en ny patch för att fixa vissa buggar som uppstått, den appansvarige uppdaterar sedan informationen på sidan för spelet på Appstore så användare fort kan uppdatera spelet med den nya patchen samt kunna se vad som ändrades.
