@@ -9,11 +9,8 @@ Istället för att man coacher ett fotbollslag, så får man här ta hand om sit
 ## Användargrupper
 Detta kan delas in i fyra olika områden:
 ### 1. Slutanvändaren
-Målgruppen appen kommer vända sig till är yngre personer, tonåringar samt ca 20-25åringar. I princip den åldern som till största delen spelar MOBA-spel på datorn eller i telefonen. Majoriteten är män, men trots det kommer en stor del vara kvinnor. De studerar troligen eller är nyligen utexaminerade. Använder sin telefon mycket samt teknik i allmänhet, därför är datorvanan är hög, då förhoppningen är att man ska ha hört talas om MOBA-spel, se appen i sin telefon och vela testa det. 
-
-Vare sig användaren är väldigt dator- eller telefonintresserad eller bara är inne på sin telefon några gånger i veckan ska denna app vända sig till alla. Detta gör att livsstilen på målgruppen inte spelar någon större roll. Har du stora spelvanor och spelar både på din dator och din telefon länge och ofta så kan man se appen som ett extra minispel. Spelar du nästan aldrig och inte är inne på telefonen särskilt ofta kan du helt enkelt nöja dig med att gå in på appen, göra veckans justeringar och sedan är du klar för veckan. 
-
-Appen är tänkt att vara enkelt att använda och vare sig användaren sitter framför TV:n och kollar lite under reklamen eller sitter i timmar för att hitta den där perfekta spelaren till ditt lag så finns det något för alla livsstilar. Även om du reser mycket så räcker det att du hittar lite Wi-Fi på hotellet några minuter för att inte känna att ditt lag hamnar alltför långt efter konkurrensen den veckan.
+**Veteranen;** Spelar MOBA-spel, Stor spelvana
+**Testaren;** Tycker det ser intressant ut att testa, Ej stor spelvana
 
 ### 2. Administratörer
 Någon som ser över appen kommer givetvis att behövas. Målet är att skapa vissa administrationsverktyg där man kan skapa vissa evenemang exempelvis turneringar. Då appen kommer börja väldigt smått kommer det inte behöva läggas en särskilt stor fokus på administratören i början. Användare som visar sig vara riktigt aktiva/duktiga skulle därför kunna bli administratörer över mindre områden av appen, exempelvis forumet, mer om det i nästa kategori.
@@ -46,18 +43,11 @@ Då jag själv känner att jag tycker det är kul att ha ett lag där man coache
 Ganska likt Hattrick så är tanken att man ska gå in på appen, kunna leta spelare, ställa in vad man ska träna på och justera sitt lag på olika sätt. Sedan har man veckans match under någon speciell tid, då sitt lag spelar i en sorts serie och man slåss för att avancera till nästa serie. Förutom det ska man kunna boka träningsmatcher mot sina vänner och även gå med i olika turneringar. Tanken är att eftersom det endast spelas en match per vecka så ska man inte behöva gå in och känna sig pressad att spela på appen hela tiden utan man kan gå in och göra takiken redo inför veckans match och sedan inte behöva (om man inte vill) gå in och justera mer den veckan.
 
 ### Features
-• Nya skärmar till dina spelare eller större budget på träningen? - Pengarna är i dina händer!
+BK1 Användaren ska kunna känna stor kontroll över sitt lag, allt från strategin och ekonomin till hur loggan och kläderna ser ut   (Riktar sig till båda slutanvändargrupperna)
 
-• Coacha ditt eget lag och lägg upp taktiken inför nästa match - Bli ett strategiskt geni!
+BK2 Spelet ska vara lätt att använda, inte kräva alltförmycket tid samt inte vara "PayToWin"     (Riktar sig främst till **testaren**)
 
-• Döp ditt lag och designa deras logga och kläder - Inte bara bäst, ser bäst ut också!
-
-• Ta hand om dina spelare och leta nya talanger - Få det ultimata laget!
-
-• Inte löjligt tidskrävande - Lägg upp din taktik och behåll din fritid!
-
-• Visa dina framsteg och utmana dina vänner - Visa vem som är bäst!
-
-• Inget PayToWin - Spelet är rättvist för alla!
+BK3 Det ska vara online och man ska enkelt kunna jämföra resultat och utmana sina vänner i en tävlingsinriktad miljö  
+(Riktar sig främst till **veteranen**)
  
 
