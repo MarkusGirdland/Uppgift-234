@@ -10,6 +10,7 @@ Istället för att man coacher ett fotbollslag, så får man här ta hand om sit
 Detta kan delas in i fyra olika områden:
 ### 1. Slutanvändaren
 **Veteranen;** Spelar MOBA-spel, Stor spelvana
+
 **Testaren;** Tycker det ser intressant ut att testa, Ej stor spelvana
 
 ### 2. Administratörer
