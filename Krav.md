@@ -42,3 +42,20 @@ AF3.2 Bestraffa användare
 
 ###**4 Appansvarig**
 AF4.1 Uppdatera spelet
+
+## Kvalitetskrav
+### Användbarhet
+**Grafisk Utformning**
+MobaManager skall grafiskt utformas till att ha ett modernt, stilrent samt enhetligt utseende.
+
+###Tillgänglighet
+**Färgblinda**
+MobaManager skall i menyn ha ett alternativ med ett läge för färgblinda då färger i appen ändras.
+
+###Stödbarhet
+**Smartphones**
+MobaManager skall kunna köras på moderna smartphones till så stor utsträckning som möjligt.
+
+###Säkerhet
+**Externa tjänster**
+MobaManager skall ha som mål att utelämna den största säkerheten angående betalningar till externa tjänster, exempelvis AppStore för att köpa Appen.
