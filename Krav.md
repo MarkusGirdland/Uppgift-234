@@ -5,7 +5,7 @@ Av: [mg222pi](https://github.com/MarkusGirdland)
 
 Här beskrivs bakgrund, användargrupper och baskrav.
 
-[Krav](www.kommersnart.se)
+[Krav](https://docs.google.com/spreadsheet/ccc?key=0AhKAs6j5MOGgdEstMDNLVEp3VFVva3llWXowc19iNlE#gid=0)
 
 Kraven ordnade i nummerordning.
 
