@@ -7,7 +7,7 @@ Här beskrivs bakgrund, användargrupper och baskrav.
 
 [Krav](www.kommersnart.se)
 
-Kraven ordnade i prioritetsordning med status och referenser
+Kraven ordnade i nummerordning.
 
 ## Aktörer
 
