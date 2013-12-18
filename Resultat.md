@@ -34,14 +34,11 @@ Inloggad (F1) som Spelare och medlem tillräckligt länge att laget har spelat e
 ### Spelarens information från databasen
 Inloggningsnamn, spelarprofil & information om laget, exempelvis:
 
-  -Namn
-  
-  -Ekonomi
-  
-  -Matcher
-  
-  -Logotyp/Tröjor
-  
+  - Namn
+  - Ekonomi
+  - Matcher
+  - Logotyp/Tröjor
+   
 ### Matchtext från spelad match
 En text innehållande simulerade händelser som pågick under matchen, exempelvis:
 
