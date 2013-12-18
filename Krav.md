@@ -27,7 +27,9 @@ Kraven ordnade i prioritetsordning med status och referenser
 ## Användningsfall
 ###**1 Spelare**
 AF1.1 Byta typ av träning
+
 AF1.2 Kolla FAQ
+
 AF1.3 Läsa resultat av match
 
 ###**2 Support**
@@ -35,6 +37,7 @@ AF2.1 Svara på forum
 
 ###**3 Administratör**
 AF3.1 Hantera forum
+
 AF3.2 Bestraffa användare
 
 ###**4 Appansvarig**
