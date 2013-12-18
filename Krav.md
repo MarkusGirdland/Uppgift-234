@@ -25,6 +25,9 @@ Kraven ordnade i nummerordning.
 - **Apples Appstore**; Vissa krav ställs på appen för att den ska få säljas i deras digitala affär.
 - **Facebook**; Inplanerad integration med Facebook för att enkelt kunna dela sitt lags framsteg ställer krav på uppbyggnaden av appen.
 
+## Funktionella Krav
+### F1 Inloggning via mobiltelefon
+Spelare, support samt administratör skall logga in via sin mobiltelefon för att kunna verifiera sig.
 
 ## Användningsfall
 ###**1 Spelare**
