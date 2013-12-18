@@ -2,9 +2,11 @@
 Av: [mg222pi](https://github.com/MarkusGirdland)
 
 [Vision MobaManager](https://github.com/MarkusGirdland/Uppgift-234/blob/master/Vision.md)
+
 Här beskrivs bakgrund, användargrupper och baskrav.
 
 [Krav](www.kommersnart.se)
+
 Kraven ordnade i prioritetsordning med status och referenser
 
 ## Aktörer
