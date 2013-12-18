@@ -33,13 +33,15 @@ Inloggad (F1) som Spelare och medlem tillräckligt länge att laget har spelat e
 ## Datadefinitioner
 ### Spelarens information från databasen
 Inloggningsnamn, spelarprofil & information om laget, exempelvis:
-  Namn
-  Ekonomi
-  Matcher
-  Logotyp/Tröjor
+
+  -Namn
+  -Ekonomi
+  -Matcher
+  -Logotyp/Tröjor
   
 ### Matchtext från spelad match
 En text innehållande simulerade händelser som pågick under matchen, exempelvis:
+
   "Anton Berg (spelar Batrider) spelar agressivt och blir fångad av motståndarlagets Nyx Assassin och ger dom därmed First Blood."
   
 ## Frågor
