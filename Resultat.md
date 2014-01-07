@@ -3,48 +3,33 @@
 En spelare vill se resultatet av sin spelade match. Systemet har kalkylerat matchen och resultatet och matchhändelserna
 går att se.
 
-### Primär Aktör
-Spelare
+##UC1 Läsa resultat av match
+###Huvudscenario
+- Starar när en spelaren vill atuentisiera sig som en användare. (1d)
+- Systemet ber om spelarens användarnamn och lösenord.
+- Spelaren anger användarnamn och lösenord. (1a)
+- Systemet autentisierar spelaren som en användare och presenterar att autentisieringen lyckades.
+- Systemet presenterar startsidan för spelarens lag.
+- Spelaren går in på "Matcher" för att hitta den senast spelade matchen samt en lista över tidigare spelade matcher. (1b)
+- Spelaren väljer den senast spelade matchen och läser resultatet. (1c)
 
-### Förkrav
-Inloggad (F1) som Spelare och medlem tillräckligt länge att laget har spelat en match.
+###Alternativa scenarios
+1a. Spelaren kunde inte autentisieras
 
-### Huvudscenario
-1. Startar när Spelaren vill se resultatet
+- Systemet presenterar felmeddelande.
+- Gå till steg 2 i huvudscenario.
 
-2. Systemet kontaktar databasen med Spelarens id och ber om Spelarens information.
+1b. Spelaren har inga matcher spelade
 
-3. Databasen svarar med Spelarens information och senaste uppdateringar angående ev. match som spelats.
+- Systemet presenterar meddelande om att inga matcher är spelade.
+- Gå till steg 5 i huvudscenario.
 
-4. Spelaren går in på "Matcher" för att hitta den senast spelade matchen samt en lista över tidigare spelade matcher.
+1c. Systemet kan inte läsa matchens resultat
 
-5. Spelaren väljer den matchen som senast var spelade och ser resultat samt en matchtext med minut-för-minut händelser av matchen.
+- Systemet presenterar meddelande om att systemtekniska fel uppstått angående matchens resultat
+- Gå till steg 5 i huvudscenario.
 
+1d. Servern för spelet är inte online
 
-### Alternativa Scenarios
-2a Databasen svarar med ett felmeddelande eller så misslyckades kontakten.
-  1. Systemet meddelar Spelaren att man inte kunde få information av systemtekniska skäl och ber Spelaren vänta och försöka senare.
-  Felmeddelandet, tidpunkt, Spelarensw id sparas i fel-loggen.
-  Användningsfallet avslutas.
-  
-4a Spelaren har inga nya matcher spelade
-  1. När Spelaren går in på "Matcher" så finns bara tidigare spelade matcher samt en lista på matcher som snart ska spelas.
-
-## Datadefinitioner
-### Spelarens information från databasen
-Inloggningsnamn, spelarprofil & information om laget, exempelvis:
-
-  - Namn
-  - Ekonomi
-  - Matcher
-  - Logotyp/Tröjor
-   
-### Matchtext från spelad match
-En text innehållande simulerade händelser som pågick under matchen, exempelvis:
-
-  "Anton Berg (spelar Batrider) spelar agressivt och blir fångad av motståndarlagets Nyx Assassin och ger dom därmed First Blood."
-  
-## Frågor
-- Hur simluera matcher?
-- Vilka händelser ska presenteras vid matchtexten?
-  
+- Systemet presenterar meddelande om att servrarna inte är tillgängliga och ber användaren försöka igen senare
+- Gå till steg 1 i huvudscenario.
