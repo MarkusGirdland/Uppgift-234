@@ -1,5 +1,7 @@
 #AF1.3 - Läsa resultat av match
 
+[Testfall av detta användningsfall](https://github.com/MarkusGirdland/Uppgift-234/blob/master/Testfall.md)
+
 En spelare vill se resultatet av sin spelade match. Systemet har kalkylerat matchen och resultatet och matchhändelserna
 går att se.
 
