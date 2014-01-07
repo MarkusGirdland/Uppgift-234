@@ -1,4 +1,4 @@
-#Testfall av AF1.3 - Läsa resultat av match
+#AF1.3 - Läsa resultat av match
 
 En spelare vill se resultatet av sin spelade match. Systemet har kalkylerat matchen och resultatet och matchhändelserna
 går att se.
