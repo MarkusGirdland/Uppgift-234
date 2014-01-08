@@ -7,7 +7,7 @@ går att se.
 ###Huvudscenario
 - Starar när en spelaren vill atuentisiera sig som en användare. (1d)
 - Systemet ber om spelarens användarnamn och lösenord.
-- Spelaren anger användarnamn och lösenord. (1a)
+- Spelaren anger "Kalle" som användarnamn och "password" som lösenord. (1a)
 - Systemet autentisierar spelaren som en användare och presenterar att autentisieringen lyckades.
 - Systemet presenterar startsidan för spelarens lag.
 - Spelaren går in på "Matcher" för att hitta den senast spelade matchen samt en lista över tidigare spelade matcher. (1b)
@@ -17,6 +17,7 @@ går att se.
 1a. Spelaren kunde inte autentisieras
 
 - Systemet presenterar felmeddelande.
+- Systemet erbjudern en "Återställ Lösenord"-funktion (1e)
 - Gå till steg 2 i huvudscenario.
 
 1b. Spelaren har inga matcher spelade
@@ -33,3 +34,11 @@ går att se.
 
 - Systemet presenterar meddelande om att servrarna inte är tillgängliga och ber användaren försöka igen senare
 - Gå till steg 1 i huvudscenario.
+
+1e.
+
+- Spelaren trycker på "Återställ Lösenord".
+- Spelaren skriver in "Kalle@email.com" som sin e-mail.
+- Spelaren får ett nytt lösenord i sin e-mail.
+- Spelaren skriver in "Kalle" som användarnamn och "1kd43e" som nytt lösenord slumpat av systemet.
+- Gå till steg 4 i huvudscenario.
